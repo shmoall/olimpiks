@@ -1,1 +1,1 @@
-# olimpiks
+# olympiks
